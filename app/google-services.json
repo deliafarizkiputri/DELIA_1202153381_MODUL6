@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64374668766",
+    "firebase_url": "https://deliamodul6.firebaseio.com",
+    "project_id": "deliamodul6",
+    "storage_bucket": "deliamodul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64374668766:android:b7c2dc56f9be16e6",
+        "android_client_info": {
+          "package_name": "com.example.android.deliafarizkiputri_1202153381_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64374668766-gr3hbh1vg6rocssug8m317a0q3aedrla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.deliafarizkiputri_1202153381_modul6",
+            "certificate_hash": "2b1dee47607922e63af5a652bc053101cb46c169"
+          }
+        },
+        {
+          "client_id": "64374668766-jle0goh3o9126863uaqr5f54f174na7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRXvHYNdMgcXSmbmrbUUIpLmj_TzHP17A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64374668766-jle0goh3o9126863uaqr5f54f174na7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
